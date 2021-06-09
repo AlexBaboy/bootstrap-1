@@ -44,6 +44,10 @@ a:hover {
     left: auto;
 }
 
+.my-header {
+    padding: 1rem 1.5rem;
+}
+
 .top-menu li a::after {
     content: '';
     display: block;
